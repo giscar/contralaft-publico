@@ -1,10 +1,13 @@
 LA CONTRALAFT
 >Quiénes somos
->MIembros
+>Miembros
+>Acuerdos
+>Equipos de Trabajo
+>Sesiones
 >Acuerdos
 >Campañas
 EVALUACIONES DE RIESGO
->Evaluación Nacional de Riezgos
+>Evaluación Nacional de Riesgos
 POLÍTICA Y PLAN 
 >Política contra LA/FT
 >Planes contra LA/FT
@@ -18,7 +21,7 @@ NORMAS
 PROYECTOS
 >Sistemas de información
 >Estudios
->Vigilancia ciudadana
+>Informa UIF
 MARCO INTERNACIONAL
 >Organismos internacionales
 >Tratados internacionales
