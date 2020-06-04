@@ -18,10 +18,20 @@
 <dnn:DnnJsInclude ID="PoperJS" runat="server" FilePath="Js/popper.min.js" PathNameAlias="SkinPath" />
 <dnn:DnnJsInclude ID="WowJS" runat="server" FilePath="Js/wow.js" PathNameAlias="SkinPath" />
 <dnn:DnnJsInclude ID="OwlCarruselJS" runat="server" FilePath="Js/owl.carousel.js" PathNameAlias="SkinPath" />
-<dnn:DnnJsInclude ID="CustomlJS" runat="server" FilePath="Js/custom.min.js" PathNameAlias="SkinPath" />
+<dnn:DnnJsInclude ID="JquerySlimenuJS" runat="server" FilePath="Js/jquery.slimmenu.min.js" PathNameAlias="SkinPath" />
+<dnn:DnnJsInclude ID="MainJS" runat="server" FilePath="Js/main.js" PathNameAlias="SkinPath" />
 <script>
-$(document).ready(function(){
-new WOW().init();
-})
-        
-    </script>
+jQuery( document ).ready(function($) { 
+    /* SlimMenu Prep */
+    $('#navigation').slimmenu({
+      resizeWidth: '800',
+      collapserTitle: '',
+      animSpeed: 0,
+      easingEffect: null,
+      indentChildren: false,
+      childrenIndenter: '&nbsp;',
+      expandIcon: '',
+      collapseIcon: ''
+    });
+  });
+</script>

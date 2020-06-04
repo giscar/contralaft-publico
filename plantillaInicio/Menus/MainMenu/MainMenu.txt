@@ -18,9 +18,9 @@
         </li>
     [/>]
 	[>NODE]
-        <li class="[?NODE]dropdown [/?][?SELECTED]active[/?]">
+        <li style="background: #006231; border-color: #146E41;" class="[?NODE]dropdown [/?][?SELECTED]active[/?]">
         [?ENABLED]
-            <a href="[=URL]" [?TARGET]target="[=TARGET]"[/?]><span>[=TEXT]</span> [?NODE]<span class="caret"></span>[/?]</a>
+            <a href="[=URL]" style="color: #E8ECF0"  [?TARGET]target="[=TARGET]"[/?]><span>[=TEXT]</span> [?NODE]<span class="caret"></span>[/?]</a>
         [?ELSE]
             <a href="#"><span>[=TEXT]</span> [?NODE]<span class="caret"></span>[/?]</a>
         [/?]

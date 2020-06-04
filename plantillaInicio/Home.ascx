@@ -57,7 +57,7 @@
     </div>
 
     <!--Header -->
-    <header role="banner">
+    <header role="banner" style="border-bottom: 0px  ;">
         <div class="container">
             <div id="navbar-top-wrapper" class="col-md-6">
                     <div id="logo"> 
@@ -68,10 +68,10 @@
                 </div>
                 <div class="col-md-6">
                 <ul class="menu-sec">
-             <li><a href="preguntas-frecuentes.html">Ayuda</a></li>
-              <li><a href="#">Contacto</a></li>
-              <li><a href="#">Enlaces de interés</a></li>
-              <li><a href="#"><i class="fas fa-search"></i></a></li>
+             <li><a style="color: #06369D" href="preguntas-frecuentes.html">Ayuda</a></li>
+              <li><a style="color: #06369D" href="#">Contacto</a></li>
+              <li><a style="color: #06369D" href="#">Enlaces de interés</a></li>
+              <li><a style="color: #06369D" href="#"><i class="fas fa-search"></i></a></li>
             </ul>
                 </div>
         </div>
@@ -97,8 +97,8 @@
 
     <!-- Page Content -->
     <div class="container-fluid">
-        <main role="main">
-            <div class="row dnnpane">
+        <main role="main"  >
+            <div class="row dnnpane" >
                 <div id="HeaderPane" class="col-md-12 headerPane" runat="server"></div> 
             </div>
                
