@@ -54,7 +54,7 @@
     </div>
 
     <!--Header -->
-    <header role="banner">
+    <header role="banner" >
         <div class="container">
             <div id="navbar-top-wrapper" class="col-md-6">
                     <div id="logo"> 
@@ -95,7 +95,7 @@
     <!-- Page Content -->
     <div class="container-fluid">
         <main role="main">
-            <div id="breadcrumb" class="col-md-12">
+            <div id="breadcrumb" class="col-md-12" style="border-bottom: 0px  ;">
                 <dnn:BREADCRUMB ID="dnnBreadcrumb" runat="server" CssClass="breadcrumbLink" RootLevel="0" Separator="&lt;img src=&quot;/Portals/_default/Skins/plantillaInicio/Images/breadcrumb-arrow.png&quot; alt=&quot;breadcrumb separator&quot;&gt;" HideWithNoBreadCrumb="true" />
             </div>
             <br/>
@@ -133,7 +133,18 @@
   <div class="container-fluid">
       <div id="FooterPaneOne" class="col-12" runat="server"></div>
   </div>
-  
+  <div class="footer-copy">
+    <div class="container">
+    <div class="row">
+    <div class="col-md-12 logos-pie">
+    <ul>
+    <li><img alt="" src="/portals/0/Images/logo-elperuprimero.png?ver=2019-08-05-045255-797" /></li>
+    <li><img alt="" src="/portals/0/Images/logo-giz-footer.png?ver=2019-08-05-045256-007" /></li>
+    </ul>
+    </div>
+    </div>
+    </div>
+    </div>
 </footer>
 
 </div>

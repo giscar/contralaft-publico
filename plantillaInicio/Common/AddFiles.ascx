@@ -1,6 +1,6 @@
 <%@ Register TagPrefix="dnn" Namespace="DotNetNuke.Web.Client.ClientResourceManagement" Assembly="DotNetNuke.Web.Client" %>
 <%-- CSS files --%>
-<dnn:DnnCssInclude ID="BootstrapCSS" runat="server" FilePath="bootstrap/css/bootstrap.min.css" PathNameAlias="SkinPath" Priority="12" />
+<dnn:DnnCssInclude ID="BootstrapCSS" runat="server" FilePath="bootstrap/css/bootstraP.css" PathNameAlias="SkinPath" Priority="12" />
 <dnn:DnnCssInclude ID="SmartMenuBootstrapCSS" runat="server" FilePath="css/jquery.smartmenus.bootstrap.css" PathNameAlias="SkinPath" Priority="13" />
 <dnn:DnnCssInclude ID="MainMenuCSS" runat="server" FilePath="Menus/MainMenu/MainMenu.css" PathNameAlias="SkinPath" Priority="14" />
 <dnn:DnnCssInclude ID="SkinCSS" runat="server" FilePath="skin.css" PathNameAlias="SkinPath" />
@@ -8,6 +8,7 @@
 <dnn:DnnCssInclude ID="OwlCarruselCSS" runat="server" FilePath="Css/owl.carousel.min.css" PathNameAlias="SkinPath"/>
 <dnn:DnnCssInclude ID="OwlThemeCSS" runat="server" FilePath="Css/owl.theme.default.css" PathNameAlias="SkinPath"/>
 <dnn:DnnCssInclude ID="AnimateCSS" runat="server" FilePath="Css/animate.css" PathNameAlias="SkinPath"/>
+<dnn:DnnCssInclude ID="ContralafThemetCSS" runat="server" FilePath="Css/contralaft.theme.css" PathNameAlias="SkinPath"/>
 
 
 <%-- JS files --%>

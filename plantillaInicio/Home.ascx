@@ -123,7 +123,18 @@
   <div class="container-fluid">
       <div id="FooterPaneOne" class="col-12" runat="server"></div>
   </div>
-  
+  <div class="footer-copy">
+    <div class="container">
+    <div class="row">
+    <div class="col-md-12 logos-pie">
+    <ul>
+    <li><img alt="" src="/portals/0/Images/logo-elperuprimero.png?ver=2019-08-05-045255-797" /></li>
+    <li><img alt="" src="/portals/0/Images/logo-giz-footer.png?ver=2019-08-05-045256-007" /></li>
+    </ul>
+    </div>
+    </div>
+    </div>
+    </div>
 </footer>
 
 </div>

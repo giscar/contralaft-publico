@@ -150,16 +150,13 @@ header {
 .menu-sec-footer {
   list-style: none;
   display: inline-block;
-  float: right;
   margin: 0;
   padding: 0;
   color: white;
 }
 
 .menu-sec-footer li {
-  float: left;
-  list-style: none;
-  margin-right: 40px;
+
   color: white;
 }
 
@@ -171,8 +168,11 @@ header {
 
 .menu-sec-footer a {
   font-family: 'Roboto', sans-serif;
-  letter-spacing: 1px;
-  font-size: 0.8571rem;
+  cursor: pointer;
+  color: white;
+}
+
+.menu-sec-footer a:hover {
   color: white;
 }
 
