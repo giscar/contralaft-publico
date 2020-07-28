@@ -1,0 +1,23 @@
+.divStyles ul li a {
+    font-family: 'Lora', serif;
+    font-weight: 400;
+    line-height : 5px;
+}
+
+
+.divStyles ul li:before {
+    content: none;
+    
+}
+
+.divStyles ul li {
+    content: none;
+}
+
+.divStyles ul {
+    padding-left: 20px;
+}
+
+.contenido-articulo li {
+    margin-bottom: 8px;
+}
